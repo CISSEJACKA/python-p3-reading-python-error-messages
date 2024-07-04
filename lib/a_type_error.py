@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+# Corrected type error
+wrong_type = 'abc' + str(123)  # Convert integer to string before concatenation
 
-wrong_type = 'abc' + 123
